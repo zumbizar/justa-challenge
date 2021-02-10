@@ -37,6 +37,8 @@ code {
   width: auto;
 }
 
+/* SCRENN 480 */
+
 @media screen and (max-width: 480px) {
   .logo {
     width: 70%;
@@ -46,6 +48,8 @@ code {
     width: 20%;
   }
 }
+
+/* SCRENN 768 */
 
 @media screen and (min-width: 768px) {
   .logo {
@@ -57,6 +61,8 @@ code {
     font-size: 25px;
   }
 }
+
+/* SCRENN 1024 */
 
 @media screen and (min-width: 1024px) {
   .logo {
