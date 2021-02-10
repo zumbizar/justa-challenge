@@ -1,15 +1,10 @@
-.SearchBarCss {
-  width: 100%;
-  border: 1px solid grey;
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 4px 1px rgba(0, 0, 0, 0.18);
-}
-
 .SearchBarCss input {
   width: 100%;
   border: none;
   font-size: 14px;
-  color: rgba(0, 0, 0, 0.73);
+  color: #fff;
   padding: 10px 5px;
+  background-color: #1175a7;
 
   box-sizing: border-box;
   outline: none;
@@ -22,7 +17,7 @@
   margin: 0;
   padding: 0;
 
-  border-top: 1px solid grey;
+  border-top: 1px solid #fff;
 }
 
 .SearchBarCss ul:before {
@@ -32,8 +27,11 @@
 .SearchBarCss li {
   padding: 10px 5px;
   cursor: pointer;
+
+  color: #fff;
+  background-color: #1175a7;
 }
 
 .SearchBarCss li:hover {
-  background-color: rgba(128, 128, 128, 0.2);
+  background-color: #207bc0;
 }

@@ -5,7 +5,7 @@ import "./SearchBar.css";
 export default class SearchBar extends React.Component {
   constructor(props) {
     super(props);
-    this.items = ["Fernando", "Nayana", "Carlos", "José"];
+    this.items = ["Fernando", "Raí", "Arthur", "Hugo", "Marília"];
 
     this.state = {
       suggestions: [],
