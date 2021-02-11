@@ -1,6 +1,3 @@
-# Projeto feito para o Desafio da #JUSTA! 
-
-
 ## Participantes
 
 [<img src="https://avatars1.githubusercontent.com/u/68034298?s=460&u=e740c043521aa42a70260b6bd717dadd11df8623&v=4" width="100px;"/>](https://github.com/zumbizar)
