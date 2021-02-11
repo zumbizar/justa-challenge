@@ -8,6 +8,7 @@
 
 - [x] ReactJS
 - [x] AutoComplete
+- [x] Material-UI
 
 ## Iniciando ambiente de desenvolvimento no VSCode
 
