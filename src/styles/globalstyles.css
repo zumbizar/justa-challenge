@@ -46,6 +46,7 @@ code {
 
   .SearchBarCss input {
     width: 20%;
+    margin-bottom: 10px;
   }
 }
 
@@ -72,8 +73,8 @@ code {
   }
 
   .SearchBarCss {
-    margin-left: 270px;
-    width: 60%;
+    margin-bottom: 10px;
+    width: 100%;
     border: 1px solid white;
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1), 0 2px 4px 1px rgba(0, 0, 0, 0.18);
   }

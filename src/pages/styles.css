@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+  color: #fff;
+}
+
+.backHome {
+  float: left;
+}
+/* FOTO PERFIL */
+
+.imagemPerfil {
+  width: 20%;
+  border: 1px solid gray;
+  border-radius: 50px;
+}

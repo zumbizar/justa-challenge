@@ -1,11 +1,53 @@
 /* CSS HEADER */
 
-.logo {
-  padding: 0;
-}
-
 .textMsg {
   color: #fff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+/* CSS SEARCH BAR */
+
+.SearchBarCss input {
+  width: 100%;
+  border: none;
+  font-size: 14px;
+  color: #fff;
+  padding: 15px 5px;
+  background-color: #1175a7;
+
+  box-sizing: border-box;
+  outline: none;
+}
+
+.SearchBarCss ul {
+  list-style-type: none;
+  text-align: left;
+
+  margin: 0px;
+  padding: 0;
+
+  border-top: 1px solid #fff;
+}
+
+.SearchBarCss ul:before {
+  content: "";
+}
+
+.SearchBarCss li {
+  padding: 10px 5px;
+  cursor: pointer;
+
+  color: #fff;
+  background-color: #1175a7;
+}
+
+.SearchBarCss li:hover {
+  background-color: #207bc0;
+}
+
+/* BUTTON PESQUISAR */
+
+.Button {
+  padding-top: 20px;
 }
