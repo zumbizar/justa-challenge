@@ -37,7 +37,7 @@ code {
   width: auto;
 }
 
-/* SCRENN 480 */
+/* SCREEN RESPONSIVE 480 */
 
 @media screen and (max-width: 480px) {
   .logo {
@@ -49,7 +49,7 @@ code {
   }
 }
 
-/* SCRENN 768 */
+/* SCREEN RESPONSIVE 768 */
 
 @media screen and (min-width: 768px) {
   .logo {
@@ -62,7 +62,7 @@ code {
   }
 }
 
-/* SCRENN 1024 */
+/* SCREEN RESPONSIVE 1024 */
 
 @media screen and (min-width: 1024px) {
   .logo {
