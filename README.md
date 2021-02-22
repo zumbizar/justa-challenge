@@ -10,7 +10,7 @@
 - [x] AutoComplete
 - [x] Material-UI
 
-## Iniciando ambiente de desenvolvimento no VSCode
+## Iniciando ambiente de desenvolvimento no VSCode!
 
 1. Open project folder in `VSCode`
 2. Install `npm install or yarn install`
